@@ -33,7 +33,7 @@ Website URL
 https://wickette.github.io/Daily_Work_Scheduler/
 
 GitHub Code URL
-
+https://github.com/Wickette/Daily_Work_Scheduler.git
 
 
 Images
