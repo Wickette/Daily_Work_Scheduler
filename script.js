@@ -43,14 +43,12 @@ setInterval(function(){
 
 //function to store the information to localStorage
 let input_textarea = $('.content-input');
-let save_button = $('.saveButton');
 
-save_button.on('click', updateOutput);
 
-input_textarea.val() = localStorage.getItem("content", input_textarea.val());
+saveButton.on('click', updateOutput);
+
+input_textarea = localStorage.getItem("content", input_textarea.val());
 
 function updateOutput() {
-
-	localStorage.setItem('content', input_textarea);
-	
+	localStorage.setItem('content', input_textarea);	
 }
