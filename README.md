@@ -30,7 +30,7 @@ THEN the saved events persist
 -->
 
 Website URL
-
+https://wickette.github.io/Daily_Work_Scheduler/
 
 GitHub Code URL
 
