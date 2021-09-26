@@ -37,7 +37,7 @@ https://github.com/Wickette/Daily_Work_Scheduler.git
 
 
 Images
-![image](https://user-images.githubusercontent.com/87992263/134825119-21591eb1-1f2e-4b91-9bfd-d823fffc1837.png)
-![image](https://user-images.githubusercontent.com/87992263/134825127-ef2bc257-ecb6-4172-9bd1-51acb2ebf763.png)
+![image](https://user-images.githubusercontent.com/87992263/134825747-b8c04dff-49bd-4191-a11b-f94c746d1f2e.png)
 
+**can't show images of the hours at present and future as time has pasted
 
