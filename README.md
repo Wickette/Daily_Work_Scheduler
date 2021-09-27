@@ -21,12 +21,12 @@ THEN I can enter an event
 
 WHEN I click the save button for that timeblock
 THEN the text for that event is saved in local storage
--not completed, cannot wrap my head around local storage
+-completed with help from TA
 
 
 WHEN I refresh the page
 THEN the saved events persist 
--the events still stay on the page if you refresh...
+-completed
 -->
 
 Website URL
